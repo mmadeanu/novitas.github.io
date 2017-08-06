@@ -11,29 +11,29 @@ body {
   padding-left: 90px;
   padding-right: 90px;
   padding-bottom: 15px;
+  /* Change the link color to #111 (black) on hover */
 }
 #nav .container {
-  padding-top: 0px;
+  padding-top: 15px;
 }
-ul {
+#nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: #ffffff;
 }
-li {
+#nav li {
   float: right;
 }
-li a {
+#nav li a {
   display: block;
   color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
-/* Change the link color to #111 (black) on hover */
-li a:hover {
+#nav li a:hover {
   background-color: #111;
 }
 .jumbotron {
