@@ -84,11 +84,13 @@ li a:hover {
 .logo {
     float: left;
 }
+    .img {
+        max-width: 130px;
+        padding-top: 5px;
+        float: left;
+    }
 
-img {
-    max-width: 130px;
-    padding-top: 5px;
-}
+
 
 
 
