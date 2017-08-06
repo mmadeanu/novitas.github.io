@@ -45,6 +45,12 @@ li a:hover {
     background-position-y: -80px;
 }
 
+.container {
+    max-width: inherit;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+
 h1 {
     font-family: Myriad Pro, Helvetica, sans-serif;
 	font-size: 48px;
