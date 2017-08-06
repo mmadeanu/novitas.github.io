@@ -11,6 +11,11 @@ body {
     padding-left: 90px;
     padding-right: 90px;
     padding-bottom: 15px;
+    
+    .container {
+        padding-top: 0px;
+        
+    }
 }
 
 ul {
