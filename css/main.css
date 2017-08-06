@@ -72,7 +72,6 @@ h2 {
 	color: #ffffff;
 	padding-left: 70px;
 	padding-right: 70px;
-}
 
     .links {
         float: right;
@@ -80,7 +79,7 @@ h2 {
         width: 25%;
     } 
     
-    .footer.contacts {
+    .contacts {
         float: right;
         text-align: left;
         width: 25%;
@@ -89,6 +88,7 @@ h2 {
     .copyright {
         float: left;
     }
+}
 
 .logo {
     float: left;
