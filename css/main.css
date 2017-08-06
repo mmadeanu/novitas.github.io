@@ -5,7 +5,7 @@ body {
     margin: auto;
 }
 
-.nav {
+#nav {
     background-color: #ffffff;
     border-bottom: 3px solid #F15A22;
     padding-left: 90px;
@@ -43,11 +43,6 @@ li a:hover {
     background-image: url(img/498375904.jpg);
     background-size: cover;
     background-position-y: -80px;
-    
-    h1 {
-        font-size: 92px;
-        
-    }
 }
 
 .footer {
