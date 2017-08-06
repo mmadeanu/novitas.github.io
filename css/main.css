@@ -47,7 +47,14 @@ li a:hover {
 
 h1 {
     font-family: Myriad Pro, Helvetica, sans-serif;
-	font-size: small;
+	font-size: 48px;
+    margin: auto;
+}
+
+h2 {
+    font-family: Myriad Pro, Helvetica, sans-serif;
+	font-size: 18px;
+    margin: auto;
 }
 
 .footer {
