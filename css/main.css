@@ -40,9 +40,14 @@ li a:hover {
 
 jumbotron {
     min-height: 750px;
-    background-image: url(img/498375904.jpg);
+    background-image: url(../img/498375904.jpg);
     background-size: cover;
     background-position-y: -80px;
+}
+
+h1 {
+    font-family: Myriad Pro, Helvetica, sans-serif;
+	font-size: small;
 }
 
 .footer {
