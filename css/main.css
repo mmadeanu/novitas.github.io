@@ -5,6 +5,11 @@ body {
   font-weight: bold;
   margin: auto;
 }
+body a {
+  font-family: Myriad Pro, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+}
 #nav {
   background-color: #ffffff;
   border-bottom: 3px solid #F15A22;
