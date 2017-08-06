@@ -48,7 +48,7 @@ li a:hover {
 .container {
     max-width: inherit;
     margin-left: 40px;
-    margin-top: 40px;
+    padding-top: 40px;
 }
 
 h1 {
