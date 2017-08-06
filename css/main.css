@@ -42,7 +42,7 @@ li a:hover {
   background-size: cover;
   background-position-y: -80px;
 }
-.container {
+.jumbotron .container {
   max-width: inherit;
   margin-left: 40px;
   padding-top: 40px;
