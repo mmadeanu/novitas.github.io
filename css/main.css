@@ -74,6 +74,14 @@ h2 {
   margin: auto;
   margin-top: 35px;
 }
+h3 {
+  font-size: 18px;
+  margin: auto;
+}
+p {
+  font-size: 16px;
+  font-weight: 200;
+}
 .button {
   background-color: #008EB0;
   border: none;
@@ -113,12 +121,14 @@ h2 {
 .footer .links {
   text-align: left;
   margin-left: 50%;
+  padding-top: 50px;
 }
 .footer .contacts {
   float: right;
   text-align: left;
   width: 26%;
   margin-right: 20px;
+  padding-top: 50px;
 }
 .footer .divider {
   height: 1px;
