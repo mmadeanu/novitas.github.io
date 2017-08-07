@@ -91,6 +91,7 @@ p {
 }
 .button {
   background-color: #008EB0;
+  /* Teal */
   border: none;
   padding: 15px 32px;
   border-radius: 6px;
@@ -106,8 +107,8 @@ p {
   font-size: 20px;
 }
 .button:hover {
-  background-color: #4CAF50;
-  /* Green */
+  background-color: #F15A22;
+  /* Orange */
   color: white;
 }
 .footer {
