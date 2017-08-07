@@ -90,7 +90,7 @@ p {
   font-size: 16px;
   font-weight: 100;
 }
-button {
+.button {
   border: none;
   cursor: pointer;
   color: white;
@@ -101,11 +101,11 @@ button {
   background: #008EB0;
 }
 /* Ripple magic */
-button {
+.button {
   position: relative;
   overflow: hidden;
 }
-button:after {
+.button:after {
   content: '';
   position: absolute;
   top: 50%;
@@ -132,7 +132,7 @@ button:after {
     transform: scale(40, 40);
   }
 }
-button:focus:not(:active)::after {
+.button:focus:not(:active)::after {
   animation: ripple 1s ease-out;
 }
 /*.button {
