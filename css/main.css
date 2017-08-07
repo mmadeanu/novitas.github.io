@@ -47,14 +47,14 @@ body a {
   height: 25px;
 }
 .jumbotron {
-  background-image: url(../img/92020745.jpg);
+  background-image: url(../img/614850922.jpg);
   background-size: cover;
   background-position-y: -50px;
   background-repeat: no-repeat;
 }
 .jumbotron .container {
   max-width: inherit;
-  margin-left: 330px;
+  margin-left: 200px;
   padding-top: 100px;
   height: 670px;
 }
