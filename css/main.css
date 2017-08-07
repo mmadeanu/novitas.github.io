@@ -114,6 +114,7 @@ p {
 .section-02 .jumbotron .services-container {
   max-width: inherit;
   margin-left: 200px;
+  margin-right: 200px;
   padding-top: 100px;
   height: 670px;
 }
