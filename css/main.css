@@ -47,15 +47,16 @@ body a {
   height: 25px;
 }
 .jumbotron {
-  background: linear-gradient rgba(20, 20, 20, 0.5);
-  background-image: url(../img/498375904.jpg);
+  background-image: url(../img/92020745.jpg);
   background-size: cover;
-  background-position-y: -140px;
+  background-position-y: -50px;
+  background-repeat: no-repeat;
 }
 .jumbotron .container {
   max-width: inherit;
   margin-left: 330px;
   padding-top: 100px;
+  height: 670px;
 }
 h1 {
   font-family: Myriad Pro, Helvetica, sans-serif;
