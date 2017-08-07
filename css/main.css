@@ -170,7 +170,7 @@ button:after {
 }
 @media (max-width: 1025px) {
   #section-02 {
-    height: 1000px;
+    height: 800px;
   }
 }
 .parallax-2 {
@@ -222,7 +222,7 @@ button:after {
 }
 @media (max-width: 1025px) {
   #section-03 {
-    height: 1000px;
+    height: 800px;
   }
 }
 .footer {
