@@ -107,12 +107,16 @@ h2 {
 .footer .links {
   text-align: left;
   width: 100%;
-  margin-left: 50px;
+  margin-left: 50%;
 }
 .footer .contacts {
   float: right;
   text-align: left;
   width: 26%;
+}
+.footer .divider {
+  height: 1px;
+  background-color: chartreuse;
 }
 .footer .copyright {
   float: left;
