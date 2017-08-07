@@ -100,9 +100,8 @@ h2 {
   background-color: #333333;
   padding: 10px;
   color: #ffffff;
-  width: 100%;
-  padding-left: 70px;
-  padding-right: 70px;
+  padding-left: 170px;
+  padding-right: 170px;
 }
 .footer .logo {
   float: left;
@@ -111,20 +110,18 @@ h2 {
 }
 .footer .links {
   text-align: left;
-  width: 100%;
   margin-left: 50%;
 }
 .footer .contacts {
   float: right;
   text-align: left;
   width: 26%;
+  margin-right: 20px;
 }
 .footer .divider {
-  height: 2px;
+  height: 1px;
   background-color: #ffffff;
-}
-.footer .copyright {
-  float: left;
+  margin-top: 140px;
 }
 .logo {
   float: left;
