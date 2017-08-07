@@ -124,19 +124,19 @@ p {
 .footer .logo {
   float: left;
   width: 15px;
-  padding-top: 50px;
+  padding-top: 30px;
 }
 .footer .contacts {
   text-align: left;
   margin-left: 50%;
-  padding-top: 50px;
+  padding-top: 30px;
 }
 .footer .links {
   float: right;
   text-align: left;
   width: 10%;
   margin-right: 20px;
-  padding-top: 50px;
+  padding-top: 30px;
 }
 .footer .links a {
   color: inherit;
