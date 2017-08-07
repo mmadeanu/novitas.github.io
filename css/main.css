@@ -29,6 +29,7 @@ body a {
 }
 #nav li {
   float: right;
+  max-height: 50px;
 }
 #nav li a {
   display: block;
