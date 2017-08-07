@@ -80,6 +80,8 @@ h2 {
   text-align: center;
   display: inline-block;
   margin-top: 25px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
 }
 .button a {
   text-decoration: none;
