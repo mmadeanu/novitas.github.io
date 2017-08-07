@@ -48,7 +48,7 @@ body a {
 }
 .overlay {
   left: 0;
-  background: #ffffff;
+  background: #000000;
 }
 .overlay .jumbotron {
   background-image: url(../img/187597395.jpg);
