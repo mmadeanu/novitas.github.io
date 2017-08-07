@@ -62,7 +62,7 @@ h1 {
   font-size: 80px;
   color: #ffffff;
   margin: auto;
-  text-shadow: 2px 2px #ff0000;
+  text-shadow: 2px 2px 5px grey;
 }
 h2 {
   font-family: Myriad Pro, Helvetica, sans-serif;
