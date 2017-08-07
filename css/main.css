@@ -54,6 +54,7 @@ body a {
 }
 .overlay .jumbotron {
   background-image: url(../img/187597395.jpg);
+  background-attachment: fixed;
   background-position-y: -50px;
   background-repeat: no-repeat;
   width: 100%;
