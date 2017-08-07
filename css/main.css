@@ -38,7 +38,7 @@ body a {
   text-decoration: none;
 }
 #nav li a:hover {
-  background-color: #000000;
+  background-color: #ffffff;
   border-bottom: 6px solid #008EB0;
 }
 .jumbotron {
