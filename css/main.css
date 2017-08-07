@@ -160,6 +160,7 @@ button:after {
 #section-03 .parallax-2 {
   background-image: url("../img/187597395.jpg");
   height: 30px;
+  position: fixed;
 }
 #section-03 .parallax-2 .container-3 .about-us-container {
   max-width: inherit;
