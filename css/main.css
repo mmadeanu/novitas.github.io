@@ -24,6 +24,9 @@ body a {
   padding-top: 25px;
   height: 55px;
 }
+#nav .links {
+  padding-right: 90px;
+}
 #nav ul {
   list-style-type: none;
   margin: 0;
