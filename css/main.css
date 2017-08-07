@@ -47,9 +47,8 @@ body a {
   height: 25px;
 }
 .overlay {
-  position: absolute;
   left: 0;
-  background: rgba(255, 255, 255, 0.5);
+  background: #ffffff;
 }
 .overlay .jumbotron {
   background-image: url(../img/187597395.jpg);
@@ -62,6 +61,10 @@ body a {
   margin-left: 200px;
   padding-top: 100px;
   height: 670px;
+}
+.overlay .jumbotron img {
+  opacity: 0.5;
+  filter: alpha(opacity=50);
 }
 h1 {
   font-family: Myriad Pro, Helvetica, sans-serif;
