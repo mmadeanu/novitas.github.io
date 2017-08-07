@@ -53,7 +53,7 @@ body a {
   border-bottom: 5px solid #008EB0;
   height: 25px;
 }
-.overlay .parallax-1 {
+.overlay .container-1 {
   background-image: url(../img/187597395.jpg);
   background-attachment: fixed;
   background-position-y: -50px;
@@ -62,7 +62,7 @@ body a {
   height: auto;
   margin-top: 30px;
 }
-.overlay .parallax-1 .container {
+.overlay .container-1 .container {
   max-width: inherit;
   margin-left: 200px;
   padding-top: 150px;
@@ -127,21 +127,21 @@ button:after {
   transform: scale(1, 1) translate(-50%);
   transform-origin: 50% 50%;
 }
-#section-02 .parallax-2 .services-container {
+#section-02 .container-2 .services-container {
   max-width: inherit;
   margin-left: 200px;
   margin-right: 200px;
   padding-top: 100px;
   height: 670px;
 }
-#section-02 .parallax-2 .services-container h1 {
+#section-02 .container-2 .services-container h1 {
   font-family: Myriad Pro, Helvetica, sans-serif;
   font-size: 80px;
   color: #333333;
   margin: auto;
   text-shadow: none;
 }
-#section-02 .parallax-2 .services-container h2 {
+#section-02 .container-2 .services-container h2 {
   font-family: Myriad Pro, Helvetica, sans-serif;
   font-size: 26px;
   color: #333333;
@@ -149,29 +149,29 @@ button:after {
   margin-top: 35px;
   text-shadow: none;
 }
-#section-02 .parallax-2 .services-container h3 {
+#section-02 .container-2 .services-container h3 {
   font-size: 18px;
   margin: auto;
 }
-#section-02 .parallax-2 .services-container p {
+#section-02 .container-2 .services-container p {
   font-size: 16px;
   font-weight: 100;
 }
-#section-03 .parallax-3 .about-us-container {
+#section-03 .container-3 .about-us-container {
   max-width: inherit;
   margin-left: 200px;
   margin-right: 200px;
   padding-top: 100px;
   height: 670px;
 }
-#section-03 .parallax-3 .about-us-container h1 {
+#section-03 .container-3 .about-us-container h1 {
   font-family: Myriad Pro, Helvetica, sans-serif;
   font-size: 80px;
   color: #333333;
   margin: auto;
   text-shadow: none;
 }
-#section-03 .parallax-3 .about-us-container h2 {
+#section-03 .container-3 .about-us-container h2 {
   font-family: Myriad Pro, Helvetica, sans-serif;
   font-size: 26px;
   color: #333333;
@@ -179,11 +179,11 @@ button:after {
   margin-top: 35px;
   text-shadow: none;
 }
-#section-03 .parallax-3 .about-us-container h3 {
+#section-03 .container-3 .about-us-container h3 {
   font-size: 18px;
   margin: auto;
 }
-#section-03 .parallax-3 .about-us-container p {
+#section-03 .container-3 .about-us-container p {
   font-size: 16px;
   font-weight: 100;
 }
