@@ -99,6 +99,8 @@ p {
   font-size: 22px;
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
   background: #008EB0;
+  display: inline-block;
+  margin-top: 25px;
 }
 /* Ripple magic */
 .button {
