@@ -111,11 +111,18 @@ p {
   /* Orange */
   color: white;
 }
+.section-02 .jumbotron .services-container {
+  max-width: inherit;
+  margin-left: 200px;
+  padding-top: 100px;
+  height: 670px;
+}
 .section-02 .jumbotron .services-container h1 {
   font-family: Myriad Pro, Helvetica, sans-serif;
   font-size: 80px;
   color: #333333;
   margin: auto;
+  text-shadow: none;
 }
 .section-02 .jumbotron .services-container h2 {
   font-family: Myriad Pro, Helvetica, sans-serif;
@@ -123,6 +130,7 @@ p {
   color: #333333;
   margin: auto;
   margin-top: 35px;
+  text-shadow: none;
 }
 .section-02 .jumbotron .services-container h3 {
   font-size: 18px;
