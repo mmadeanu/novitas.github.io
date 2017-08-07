@@ -104,6 +104,11 @@ h2 {
   padding-left: 70px;
   padding-right: 70px;
 }
+.footer .logo {
+  float: left;
+  width: 15px;
+  padding-top: 50px;
+}
 .footer .links {
   text-align: left;
   width: 100%;
@@ -115,8 +120,8 @@ h2 {
   width: 26%;
 }
 .footer .divider {
-  height: 1px;
-  background-color: chartreuse;
+  height: 2px;
+  background-color: #ffffff;
 }
 .footer .copyright {
   float: left;
@@ -124,5 +129,4 @@ h2 {
 .logo {
   float: left;
   width: 15px;
-  padding-top: 50px;
 }
