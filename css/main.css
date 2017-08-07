@@ -84,6 +84,8 @@ p {
 }
 a {
   color: inherit;
+  font-size: 16px;
+  font-weight: 100;
 }
 .button {
   background-color: #008EB0;
@@ -136,7 +138,7 @@ a {
 .footer .divider {
   height: 1px;
   background-color: #ffffff;
-  margin-top: 140px;
+  margin-top: 60px;
 }
 .logo {
   float: left;
