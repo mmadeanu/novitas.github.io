@@ -100,22 +100,25 @@ h2 {
   background-color: #333333;
   padding: 10px;
   color: #ffffff;
+  width: 100%;
   padding-left: 70px;
   padding-right: 70px;
 }
 .footer .links {
-  float: right;
   text-align: left;
-  width: 25%;
+  width: 100%;
+  margin-left: 50px;
 }
 .footer .contacts {
   float: right;
   text-align: left;
-  width: 25%;
+  width: 26%;
 }
 .footer .copyright {
   float: left;
 }
 .logo {
   float: left;
+  width: 15px;
+  padding-top: 50px;
 }
