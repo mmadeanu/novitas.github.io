@@ -152,11 +152,10 @@ p {
         font-size: 20px;
     }
 }*/
-.button:hover {
-  background-color: #F15A22;
-  /* Orange */
-  color: white;
-}
+/*.button:hover {
+    background-color: #F15A22;
+    color: white;
+}*/
 #section-02 .jumbotron .services-container {
   max-width: inherit;
   margin-left: 200px;
