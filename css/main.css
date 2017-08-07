@@ -64,7 +64,6 @@ body a {
 }
 .overlay .jumbotron img {
   opacity: 0.5;
-  filter: alpha(opacity=50);
 }
 h1 {
   font-family: Myriad Pro, Helvetica, sans-serif;
