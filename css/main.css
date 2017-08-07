@@ -63,6 +63,10 @@ body a {
   padding-top: 100px;
   height: 670px;
 }
+.overlay .jumbotron img {
+  width: 100%;
+  height: auto;
+}
 h1 {
   font-family: Myriad Pro, Helvetica, sans-serif;
   font-size: 80px;
