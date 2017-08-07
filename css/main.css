@@ -7,7 +7,7 @@ body {
 }
 body a {
   font-family: Myriad Pro, Helvetica, sans-serif;
-  font-size: 12px;
+  font-size: 20px;
   font-weight: 600;
 }
 #nav {
@@ -39,7 +39,8 @@ body a {
   text-decoration: none;
 }
 #nav li a:hover {
-  background-color: #111;
+  background-color: #000000;
+  border-bottom: 6px solid #008EB0;
 }
 .jumbotron {
   min-height: 780px;
