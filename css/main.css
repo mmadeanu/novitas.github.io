@@ -11,12 +11,6 @@ body a {
   font-size: 18px;
   font-weight: 700;
 }
-@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
-  body a {
-    font-size: 25px;
-    font-weight: 700;
-  }
-}
 #nav {
   background-color: #ffffff;
   border-bottom: 3px solid #F15A22;
@@ -93,12 +87,6 @@ h1 {
   margin: auto;
   text-shadow: 2px 2px 5px grey;
 }
-@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
-  h1 {
-    font-size: 60px;
-    font-weight: 700;
-  }
-}
 h2 {
   font-family: Myriad Pro, Helvetica, sans-serif;
   font-size: 26px;
@@ -106,17 +94,6 @@ h2 {
   text-shadow: 2px 2px 5px grey;
   margin: auto;
   margin-top: 35px;
-}
-@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
-  h2 {
-    font-size: 30px;
-    font-weight: 700;
-  }
-}
-@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
-  h2 {
-    font-size: 200%;
-  }
 }
 h3 {
   font-size: 18px;
@@ -206,11 +183,6 @@ button:after {
   font-size: 16px;
   font-weight: 100;
 }
-@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
-  #section-02 .container-2 .services-container p {
-    font-size: 150%;
-  }
-}
 .parallax-2 {
   background-image: url("../img/92020745.jpg");
   height: 400px;
@@ -265,11 +237,6 @@ button:after {
 #section-03 .container-3 .about-us-container p {
   font-size: 16px;
   font-weight: 100;
-}
-@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
-  #section-03 .container-3 .about-us-container p {
-    font-size: 150%;
-  }
 }
 .footer {
   font-family: Arial, Helvetica, sans-serif;
