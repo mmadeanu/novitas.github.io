@@ -133,9 +133,6 @@ button:after {
   transform: scale(1, 1) translate(-50%);
   transform-origin: 50% 50%;
 }
-#section-02 {
-  margin-bottom: 50px;
-}
 #section-02 .container-2 .services-container {
   max-width: inherit;
   margin-left: 200px;
@@ -170,11 +167,6 @@ button:after {
 #section-02 .container-2 .services-container p {
   font-size: 16px;
   font-weight: 100;
-}
-@media (max-width: 768px) {
-  #section-02 {
-    height: 990px;
-  }
 }
 .parallax-2 {
   background-image: url("../img/92020745.jpg");
