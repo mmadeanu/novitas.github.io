@@ -13,7 +13,7 @@ body {
 }
 body a {
   font-family: Myriad Pro, Helvetica, sans-serif;
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 700;
 }
 #nav {
@@ -108,7 +108,7 @@ h2 {
 }
 @media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
   h2 {
-    font-size: 16px;
+    font-size: 14px;
   }
 }
 h3 {
@@ -117,12 +117,17 @@ h3 {
 }
 @media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
   h3 {
-    font-size: 16px;
+    font-size: 14px;
   }
 }
 p {
   font-size: 16px;
   font-weight: 100;
+}
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
+  p {
+    font-size: 14px;
+  }
 }
 button {
   border: none;
@@ -204,7 +209,7 @@ button:after {
 }
 @media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
   #section-02 .container-2 .services-container h2 {
-    font-size: 16px;
+    font-size: 14px;
   }
 }
 #section-02 .container-2 .services-container h3 {
@@ -213,12 +218,17 @@ button:after {
 }
 @media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
   #section-02 .container-2 .services-container h3 {
-    font-size: 16px;
+    font-size: 14px;
   }
 }
 #section-02 .container-2 .services-container p {
   font-size: 16px;
   font-weight: 100;
+}
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
+  #section-02 .container-2 .services-container p {
+    font-size: 14px;
+  }
 }
 .parallax-2 {
   background-image: url("../img/92020745.jpg");
@@ -275,7 +285,7 @@ button:after {
 }
 @media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
   #section-03 .container-3 .about-us-container h2 {
-    font-size: 16px;
+    font-size: 14px;
   }
 }
 #section-03 .container-3 .about-us-container h3 {
@@ -284,12 +294,17 @@ button:after {
 }
 @media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
   #section-03 .container-3 .about-us-container h3 {
-    font-size: 16px;
+    font-size: 14px;
   }
 }
 #section-03 .container-3 .about-us-container p {
   font-size: 16px;
   font-weight: 100;
+}
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
+  #section-03 .container-3 .about-us-container p {
+    font-size: 14px;
+  }
 }
 .footer {
   font-family: Arial, Helvetica, sans-serif;
