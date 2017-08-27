@@ -169,10 +169,8 @@ button:after {
   transform: scale(1, 1) translate(-50%);
   transform-origin: 50% 50%;
 }
-@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
-  #section-02 .container-2 {
-    padding-bottom: 50px;
-  }
+#section-02 .container-2 {
+  padding-bottom: 50px;
 }
 #section-02 .container-2 .services-container {
   max-width: inherit;
