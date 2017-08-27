@@ -287,6 +287,12 @@ button:after {
     padding-right: 70px;
   }
 }
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  .footer {
+    padding-left: 70px;
+    padding-right: 70px;
+  }
+}
 .footer .logo {
   float: left;
   width: 15px;
