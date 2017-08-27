@@ -6,6 +6,11 @@ body {
   margin: auto;
   min-width: 1020px;
 }
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
+  body {
+    min-width: 567px;
+  }
+}
 body a {
   font-family: Myriad Pro, Helvetica, sans-serif;
   font-size: 18px;
