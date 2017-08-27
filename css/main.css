@@ -67,7 +67,7 @@ body a {
   padding-top: 150px;
   height: 670px;
 }
-@media (max-width: 1025px) {
+@media (max-width: 769px) {
   .overlay .container-1 .container {
     margin-left: 150px;
     margin-right: 150px;
@@ -139,7 +139,7 @@ button:after {
   padding-top: 100px;
   height: 670px;
 }
-@media (max-width: 1025px) {
+@media (max-width: 769px) {
   #section-02 .container-2 .services-container {
     margin-left: 150px;
     margin-right: 150px;
@@ -168,7 +168,7 @@ button:after {
   font-size: 16px;
   font-weight: 100;
 }
-@media (max-width: 1025px) {
+@media (max-width: 769px) {
   #section-02 {
     height: 800px;
   }
@@ -179,7 +179,7 @@ button:after {
   background-position-y: -380px;
   background-size: cover;
 }
-@media (max-width: 1025px) {
+@media (max-width: 769px) {
   .parallax-2 {
     background-position-y: -235px;
   }
@@ -191,7 +191,7 @@ button:after {
   padding-top: 100px;
   height: 670px;
 }
-@media (max-width: 1025px) {
+@media (max-width: 769px) {
   #section-03 .container-3 .about-us-container {
     margin-left: 150px;
     margin-right: 150px;
@@ -220,7 +220,7 @@ button:after {
   font-size: 16px;
   font-weight: 100;
 }
-@media (max-width: 1025px) {
+@media (max-width: 769px) {
   #section-03 {
     height: 800px;
   }
