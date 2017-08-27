@@ -4,6 +4,7 @@ body {
   font-size: medium;
   font-weight: bold;
   margin: auto;
+  min-width: 1020px;
 }
 body a {
   font-family: Myriad Pro, Helvetica, sans-serif;
