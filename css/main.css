@@ -83,7 +83,7 @@ body a {
   .overlay .container-1 .container {
     margin-left: 20px;
     margin-right: 20px;
-    max-width: inherit;
+    padding-top: 50px;
   }
 }
 h1 {
@@ -179,6 +179,7 @@ button:after {
   #section-02 .container-2 .services-container {
     margin-left: 20px;
     margin-right: 20px;
+    padding-top: 50px;
   }
 }
 #section-02 .container-2 .services-container h1 {
@@ -249,6 +250,7 @@ button:after {
   #section-03 .container-3 .about-us-container {
     margin-left: 20px;
     margin-right: 20px;
+    padding-top: 50px;
   }
 }
 #section-03 .container-3 .about-us-container h1 {
