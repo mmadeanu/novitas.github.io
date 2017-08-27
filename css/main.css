@@ -74,7 +74,7 @@ body a {
     margin-right: 70px;
   }
 }
-@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
   .overlay .container-1 .container {
     margin-left: 100px;
     margin-right: 100px;
@@ -154,7 +154,7 @@ button:after {
     margin-right: 70px;
   }
 }
-@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
   #section-02 .container-2 .services-container {
     margin-left: 100px;
     margin-right: 100px;
@@ -209,7 +209,7 @@ button:after {
     margin-right: 70px;
   }
 }
-@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
   #section-03 .container-3 .about-us-container {
     margin-left: 100px;
     margin-right: 100px;
@@ -254,7 +254,7 @@ button:after {
     padding-right: 70px;
   }
 }
-@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
   .footer {
     padding-left: 70px;
     padding-right: 70px;
