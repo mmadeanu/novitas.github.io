@@ -19,6 +19,7 @@ body a {
 .topnav {
   overflow: hidden;
   background-color: #ffffff;
+  position: fixed;
 }
 .topnav a {
   float: right;
