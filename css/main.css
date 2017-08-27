@@ -213,6 +213,11 @@ button:after {
   font-size: 16px;
   font-weight: 100;
 }
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  #section-02 .container-2 .services-container p {
+    font-size: 150%;
+  }
+}
 .parallax-2 {
   background-image: url("../img/92020745.jpg");
   height: 400px;
