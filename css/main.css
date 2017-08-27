@@ -76,8 +76,8 @@ body a {
 }
 @media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
   .overlay .container-1 .container {
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
   }
 }
 h1 {
@@ -87,6 +87,11 @@ h1 {
   margin: auto;
   text-shadow: 2px 2px 5px grey;
 }
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
+  h1 {
+    font-size: 30px;
+  }
+}
 h2 {
   font-family: Myriad Pro, Helvetica, sans-serif;
   font-size: 26px;
@@ -95,9 +100,19 @@ h2 {
   margin: auto;
   margin-top: 35px;
 }
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
+  h2 {
+    font-size: 20px;
+  }
+}
 h3 {
   font-size: 18px;
   margin: auto;
+}
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
+  h3 {
+    font-size: 16px;
+  }
 }
 p {
   font-size: 16px;
@@ -156,8 +171,8 @@ button:after {
 }
 @media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
   #section-02 .container-2 .services-container {
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
   }
 }
 #section-02 .container-2 .services-container h1 {
@@ -211,8 +226,8 @@ button:after {
 }
 @media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
   #section-03 .container-3 .about-us-container {
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
   }
 }
 #section-03 .container-3 .about-us-container h1 {
@@ -256,8 +271,8 @@ button:after {
 }
 @media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
   .footer {
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
   }
 }
 .footer .logo {
