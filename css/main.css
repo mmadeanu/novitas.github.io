@@ -108,7 +108,7 @@ h2 {
 }
 @media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
   h2 {
-    font-size: 14px;
+    font-size: 18px;
   }
 }
 h3 {
@@ -209,7 +209,7 @@ button:after {
 }
 @media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
   #section-02 .container-2 .services-container h2 {
-    font-size: 14px;
+    font-size: 18px;
   }
 }
 #section-02 .container-2 .services-container h3 {
@@ -285,7 +285,7 @@ button:after {
 }
 @media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
   #section-03 .container-3 .about-us-container h2 {
-    font-size: 14px;
+    font-size: 18px;
   }
 }
 #section-03 .container-3 .about-us-container h3 {
