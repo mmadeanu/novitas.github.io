@@ -131,7 +131,10 @@ body a {
   max-width: inherit;
   margin-left: 200px;
   margin-right: 500px;
-  padding-top: 150px;
+  padding-top: 100px;
+  /*
+            padding-top: 150px;
+            */
 }
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
   .overlay .container-1 .container {
@@ -143,7 +146,10 @@ body a {
   .overlay .container-1 .container {
     margin-left: 20px;
     margin-right: 20px;
-    padding-top: 100px;
+    padding-top: 70px;
+    /*
+                padding-top: 100px;
+                */
   }
 }
 h1 {
