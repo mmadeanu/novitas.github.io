@@ -29,9 +29,10 @@ body a {
   display: block;
   color: #000000;
   text-align: center;
-  padding: 10px 20px;
   text-decoration: none;
   font-size: 17px;
+  padding-top: 22px;
+  padding-bottom: 10px;
 }
 .topnav a:nth-child(1) {
   float: left;
@@ -55,6 +56,7 @@ body a {
 .topnav a:nth-child(1) {
   border-bottom: none;
   background-color: white;
+  padding-top: 12px;
 }
 .topnav .icon {
   display: none;
