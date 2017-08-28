@@ -43,9 +43,14 @@ body a {
   font-size: 17px;
 }
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #ffffff;
   color: black;
   border-bottom: 5px solid #008EB0;
+}
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
+  .topnav a:hover {
+    background-color: #ddd;
+  }
 }
 .topnav a:nth-child(1) {
   border-bottom: none;
