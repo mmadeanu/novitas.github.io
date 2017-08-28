@@ -24,8 +24,8 @@ body a {
   width: 100%;
   border-bottom: 3px solid #F15A22;
 }
-.topnav a:nth-child(2,3,4) {
-  float: right;
+.topnav a {
+  float: left;
   display: block;
   color: #000000;
   text-align: center;
@@ -33,8 +33,8 @@ body a {
   text-decoration: none;
   font-size: 17px;
 }
-.topnav a {
-  float: left;
+.topnav a:nth-child(2,3,4) {
+  float: right;
   display: block;
   color: #000000;
   text-align: center;
