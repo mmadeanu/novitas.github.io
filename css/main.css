@@ -90,6 +90,11 @@ body a {
     text-align: left;
   }
 }
+@media screen and (max-width: 600px) and only screen and (min-device-width: 320px) and (max-device-width: 568px) {
+  .topnav.responsive a {
+    padding-top: 15px;
+  }
+}
 /*
 #nav {
     background-color: #ffffff;
