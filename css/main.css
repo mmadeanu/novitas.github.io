@@ -40,7 +40,7 @@ body a {
 }
 .topnav a:nth-child(1) {
   border-bottom: none;
-  background-color: none;
+  background-color: white;
 }
 .topnav .icon {
   display: none;
