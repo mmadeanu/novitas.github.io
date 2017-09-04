@@ -437,6 +437,11 @@ button:after {
   margin-left: 50%;
   padding-top: 30px;
 }
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
+  .footer .contacts {
+    margin-left: 0px;
+  }
+}
 .footer .links {
   float: right;
   text-align: left;
@@ -448,6 +453,12 @@ button:after {
   color: inherit;
   font-size: 16px;
   font-weight: 100;
+}
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
+  .footer .links {
+    float: none;
+    margin-top: 60px;
+  }
 }
 .footer .divider {
   height: 1px;
