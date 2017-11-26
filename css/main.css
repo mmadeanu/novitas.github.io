@@ -212,8 +212,8 @@ button:after {
 }
 #section-02 .container-2 .services-container {
   max-width: inherit;
-  margin-left: 200px;
-  margin-right: 200px;
+  margin-left: 100px;
+  margin-right: 100px;
   padding-top: 100px;
 }
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
@@ -294,8 +294,8 @@ button:after {
 }
 #section-03 .container-3 .about-us-container {
   max-width: inherit;
-  margin-left: 200px;
-  margin-right: 200px;
+  margin-left: 100px;
+  margin-right: 100px;
   padding-top: 100px;
 }
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
