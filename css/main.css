@@ -421,7 +421,7 @@ button:after {
 img {
   width: 120px;
 }
-toTopBtn {
+.toTopBtn {
   display: none;
   position: fixed;
   bottom: 20px;
