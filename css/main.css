@@ -22,6 +22,7 @@ body a {
   position: fixed;
   top: 0;
   width: 100%;
+  max-width: 1200px;
   border-bottom: 3px solid #F15A22;
 }
 .topnav a {
