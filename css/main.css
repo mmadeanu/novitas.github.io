@@ -332,12 +332,18 @@ button:after {
 .parallax-2 {
   background-image: url("../img/513313726.jpg");
   height: 400px;
-  background-position-y: -380px;
+  background-position-y: -450px;
   background-size: cover;
 }
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
   .parallax-2 {
-    background-position-y: -80px;
+    background-position-y: -230px;
+  }
+}
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
+  .parallax-2 {
+    background-position-y: 0px;
+    background-repeat: no-repeat;
   }
 }
 #section-03 {
