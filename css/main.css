@@ -429,11 +429,14 @@ img {
   z-index: 99;
   border: none;
   outline: none;
-  background-color: red;
+  background-color: #008EB0;
   color: white;
   cursor: pointer;
-  padding: 15px;
-  border-radius: 10px;
+  padding: 10px;
+  border-radius: 6px;
+  font-family: Myriad Pro, Helvetica, sans-serif;
+  font-size: 18px;
+  font-weight: 700;
 }
 .toTopBtn:hover {
   background-color: #555;
