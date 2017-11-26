@@ -432,7 +432,7 @@ img {
   background-color: #008EB0;
   color: white;
   cursor: pointer;
-  padding: 10px;
+  padding: 10px 10px 6px 10px;
   border-radius: 6px;
   font-family: Myriad Pro, Helvetica, sans-serif;
   font-size: 18px;
