@@ -91,61 +91,6 @@ body a {
     padding-top: 12px;
   }
 }
-/*
-#nav {
-    background-color: #ffffff;
-    border-bottom: 3px solid #F15A22;
-    padding-left: 70px;
-    padding-right: 70px;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    
-    .container {
-        padding-top: 25px;
-        height: 55px;
-    }
-    
-    .container .icon {
-        display: none;
-    }
-    
-    .links {
-        padding-right: 90px;
-    }
-    
-    ul {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-        overflow: hidden;
-        background-color: #ffffff;
-        max-height: 55px;
-    }
-
-    li {
-        float: right;
-    }
-
-    li a {
-        display: block;
-        color: black;
-        text-align: center;
-        padding: 5px;
-        margin-bottom: 16px;
-        margin-right: 70px;
-        text-decoration: none;
-    }
-
-    li a:hover {
-        background-color: #ffffff;
-        border-bottom: 5px solid #008EB0;
-        height: 25px;
-        
-    }
-}
-
-*/
 .overlay .container-1 {
   background-image: url(../img/187597395-contrast.jpg);
   background-attachment: fixed;
@@ -165,9 +110,6 @@ body a {
   margin-left: 200px;
   margin-right: 500px;
   padding-top: 100px;
-  /*
-            padding-top: 150px;
-            */
 }
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
   .overlay .container-1 .container {
