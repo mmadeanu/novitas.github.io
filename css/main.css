@@ -275,7 +275,8 @@ button:after {
 .parallax-2 {
   background-image: url("../img/513313726.jpg");
   height: 400px;
-  background-position-y: -450px;
+  background-position-y: -350px;
+  background-repeat: no-repeat;
   background-size: cover;
   width: 1200px;
 }
@@ -288,15 +289,26 @@ button:after {
   .parallax-2 {
     background-position-y: 0px;
     background-repeat: no-repeat;
+    width: 100%;
   }
 }
 #section-03 {
   width: 1200px;
 }
+@media only screen and (min-width: 320px) and (max-width: 568px) {
+  #section-03 {
+    width: 100%;
+  }
+}
 #section-03 .container-3 {
   margin-bottom: 50px;
   width: 1200px;
   margin: auto;
+}
+@media only screen and (min-width: 320px) and (max-width: 568px) {
+  #section-03 .container-3 {
+    width: 100%;
+  }
 }
 #section-03 .container-3 .about-us-container {
   max-width: inherit;
