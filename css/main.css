@@ -107,6 +107,14 @@ body a {
   .overlay .container-1 {
     margin-top: 0px;
     width: 100%;
+    background-position-y: bottom;
+    background-position-x: center;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  .overlay .container-1 {
+    background-position-y: center;
+    background-position-x: right;
   }
 }
 .overlay .container-1 .container {
@@ -275,19 +283,19 @@ button:after {
 .parallax-2 {
   background-image: url("../img/513313726.jpg");
   height: 400px;
-  background-position-y: -425px;
+  background-position-y: -700px;
+  background-position-x: center;
   background-repeat: no-repeat;
-  background-size: cover;
-  /*width: 1280px;*/
+  background-size: inherit;
 }
 @media only screen and (min-width: 569px) and (max-width: 1024px) {
   .parallax-2 {
-    background-position-y: -200px;
+    background-position-y: -700px;
   }
 }
 @media only screen and (min-width: 320px) and (max-width: 568px) {
   .parallax-2 {
-    background-position-y: 0px;
+    background-position-y: -700px;
     background-repeat: no-repeat;
     width: 100%;
   }
