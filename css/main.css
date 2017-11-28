@@ -108,8 +108,8 @@ body a {
   .overlay .container-1 {
     margin-top: 0px;
     width: 100%;
-    background-position-y: bottom;
-    /*background-position-x: left;*/
+    /*background-position-y: bottom;
+            background-position-x: left;*/
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
