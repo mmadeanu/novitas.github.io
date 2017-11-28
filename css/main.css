@@ -98,6 +98,7 @@ body a {
   background-image: url(../img/187597395-contrast.jpg);
   background-attachment: fixed;
   background-position-y: -50px;
+  background-position-x: center;
   background-repeat: no-repeat;
   /*width: 1280px;*/
   margin-top: 30px;
@@ -114,7 +115,7 @@ body a {
 @media only screen and (min-width: 768px) and (max-width: 1024px) {
   .overlay .container-1 {
     background-position-y: center;
-    background-position-x: right;
+    background-position-x: center;
   }
 }
 .overlay .container-1 .container {
