@@ -93,7 +93,7 @@ body a {
     text-align: center;
     padding-top: 12px;
   }
-  .topnav.responsive a img {
+  .topnav.responsive a a {
     text-align: left;
   }
 }
