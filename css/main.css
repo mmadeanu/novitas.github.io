@@ -63,6 +63,7 @@ body a {
   background-color: white;
   padding-top: 12px;
   padding-left: 25px;
+  text-align: center;
 }
 .topnav .icon {
   display: none;
@@ -92,9 +93,6 @@ body a {
     display: block;
     text-align: center;
     padding-top: 12px;
-  }
-  .topnav.responsive a a:nth-child(1) {
-    text-align: left;
   }
 }
 .overlay .container-1 {
