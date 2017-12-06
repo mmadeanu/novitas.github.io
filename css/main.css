@@ -93,6 +93,9 @@ body a {
     text-align: center;
     padding-top: 12px;
   }
+  .topnav.responsive a img {
+    text-align: left;
+  }
 }
 .overlay .container-1 {
   background-image: url(../img/hero-image.jpg);
